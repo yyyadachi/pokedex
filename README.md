@@ -1,6 +1,6 @@
 ## 概要
 
-https://www.youtube.com/watch?v=LMRAEUPkFXI&t=744s
+https://www.youtube.com/watch?v=LMRAEUPkFXI
 のハンズオン(NextJS,TailwindCSS)
 
 Typescript 適用
